@@ -137,3 +137,9 @@ All this runs on an AWS EC2 instance running an Ubuntu Linux distribution. The L
   
 17. Visit site at http://ec2-18-185-139-220.eu-central-1.compute.amazonaws.com/
 
+
+# References
+
+https://stackoverflow.com/questions/35017160/how-to-use-virtualenv-with-python
+https://docs.aws.amazon.com/efs/latest/ug/wt2-apache-web-server.html
+https://www.shellhacks.com/modwsgi-hello-world-example/
